@@ -123,9 +123,9 @@ REPLACE="
 
 print_modname() {
   ui_print "*********************************************"
-  ui_print "     Unrar for Android       	       	    "
-  ui_print "         - v5.71                           "
-  ui_print "         - built by nelshh @ xda-developers    "
+  ui_print "     Unrar for Android                       "
+  ui_print "         - v5.91 (beta 4)                    "
+  ui_print "         - built by nelshh @ xda-developers  "
   ui_print "*********************************************"
 }
 
